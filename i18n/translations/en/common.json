@@ -1,0 +1,7 @@
+{
+  "failureScreen": {
+    "retry": "Retry",
+    "somethingWentWrong": "Something went wrong"
+  },
+  "requiredMsg": "Required"
+}
