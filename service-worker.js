@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://chennachandrika.github.io/csb-hopdm/precache-manifest.5ab09b4286946ab07b7fda2e297be387.js"
+  "https://chennachandrika.github.io/csb-hopdm/precache-manifest.19540c093f19508b35819efd0ea33fd6.js"
 );
 
 self.addEventListener('message', (event) => {
